@@ -1,1 +1,1 @@
-# HOA3.1
+# Install SSH server on CentOS or RHEL 8
